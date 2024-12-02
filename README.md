@@ -8,3 +8,9 @@
 -> Delete branches remotely
 - `git push origin --delete dev`
 - `git push origin --delete test`
+
+
+
+# Tell me how to checkout another branch without commit changes
+-> Stash your changes before switching branches: 
+`git stash`
